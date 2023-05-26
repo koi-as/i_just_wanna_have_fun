@@ -1,2 +1,7 @@
-# i_just_wanna_have_fun
-This is a fun little project just to work on
+# Ferret
+
+What is this project? 
+
+I am not so sure... I want to make a website called Ferret just because Mongoose for MongoDB exists
+
+Yeah that's about it... 
